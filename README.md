@@ -1,14 +1,14 @@
-## ⚠️ The project has been moved
+## ⚠️ This project has been moved
 
-`japanese-db-maker` has been renamed to `japanese-db`, please use the latest version of `japanese-db` instead of `japanese-db-maker`.
+`japanese-db-maker` has been renamed to `japanese-db`. Please use the latest version of `japanese-db` instead of `japanese-db-maker`.
 
-Github URL : https://github.com/ezhmd/japanese-db
+GitHub URL : https://github.com/ezhmd/japanese-db
 
-NPM URL : https://www.npmjs.com/package/japanese-db
+npm URL : https://www.npmjs.com/package/japanese-db
 
 -----
 
-# Japanese DB Maker
+## Japanese DB Maker
 
 [![NPM Downloads](https://img.shields.io/npm/dm/japanese-db-maker?label=downloads)](https://www.npmjs.com/package/japanese-db-maker)
 

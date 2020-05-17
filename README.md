@@ -2,7 +2,7 @@
 
 `japanese-db-maker` has been renamed to `japanese-db`. Please use the latest version of `japanese-db` instead of `japanese-db-maker`.
 
-GitHub URL : https://github.com/ezhmd/japanese-db
+GitHub URL : https://github.com/echamudi/japanese-db
 
 npm URL : https://www.npmjs.com/package/japanese-db
 
@@ -61,17 +61,17 @@ The generated database file contains data from following sources.
 - KANJIDIC Project http://www.edrdg.org/wiki/index.php/KANJIDIC_Project
 - Wanikani Audio https://github.com/tofugu/japanese-vocabulary-pronunciation-audio
 - KanjiVG https://github.com/KanjiVG/kanjivg
-- Kanji https://github.com/ezhmd/kanji
+- Kanji https://github.com/echamudi/kanji
 
 ## Authors
 
-* **Ezzat Chamudi** - [ezhmd](https://github.com/ezhmd)
+* **Ezzat Chamudi** - [echamudi](https://github.com/echamudi)
 
-See also the list of [contributors](https://github.com/ezhmd/japanese-db-maker/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/echamudi/japanese-db-maker/graphs/contributors) who participated in this project.
 
 ## License
 
-Copyright © 2020 [Ezzat Chamudi](https://github.com/ezhmd)
+Copyright © 2020 [Ezzat Chamudi](https://github.com/echamudi)
 
 Japanese DB Maker code is licensed under [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/). Images, logos, docs, and articles in this project are released under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 

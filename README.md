@@ -1,6 +1,6 @@
 # Japanese DB
 
-[![Build Status](https://travis-ci.org/ezhmd/japanese-db.svg?branch=master)](https://travis-ci.org/ezhmd/japanese-db) [![NPM Downloads](https://img.shields.io/npm/dm/japanese-db?label=downloads)](https://www.npmjs.com/package/japanese-db)
+[![Build Status](https://travis-ci.org/echamudi/japanese-db.svg?branch=master)](https://travis-ci.org/echamudi/japanese-db) [![NPM Downloads](https://img.shields.io/npm/dm/japanese-db?label=downloads)](https://www.npmjs.com/package/japanese-db)
 
 Japanese language resources database maker from various open source materials.
 
@@ -42,6 +42,15 @@ npm link .
 npm test
 ```
 
+## Contributing
+
+This project is following [git-flow branching model](https://github.com/echamudi/echamudi-docs/blob/master/git-strategy/gitflow.png). 
+- Please create a branch from `develop`.
+- Name it something descriptive other than `master`, `develop`, `release-*`, or `hotfix-*`.
+- Open a pull request to `develop`.
+
+Make sure your contributions are compatible with the license of this project.
+
 ## Acknowledgment
 
 The generated database file contains data from following sources.
@@ -51,19 +60,18 @@ The generated database file contains data from following sources.
 - KANJIDIC Project http://www.edrdg.org/wiki/index.php/KANJIDIC_Project
 - Wanikani Audio https://github.com/tofugu/japanese-vocabulary-pronunciation-audio
 - KanjiVG https://github.com/KanjiVG/kanjivg
-- Kanji https://github.com/ezhmd/kanji
+- Kanji https://github.com/echamudi/kanji
 
 ## Authors
 
-* **Ezzat Chamudi** - [ezhmd](https://github.com/ezhmd)
+* **Ezzat Chamudi** - [echamudi](https://github.com/echamudi)
 
-See also the list of [contributors](https://github.com/ezhmd/japanese-db/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/echamudi/japanese-db/graphs/contributors) who participated in this project.
 
 ## License
 
-Copyright © 2020 [Ezzat Chamudi](https://github.com/ezhmd)
+Copyright © 2020 [Ezzat Chamudi](https://github.com/echamudi)
 
 Japanese DB code is licensed under [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/). Images, logos, docs, and articles in this project are released under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-Libraries, dependencies, and tools used in this project are tied with their own licenses respectively.
-
+Libraries, dependencies, and tools used in this project are tied with their licenses.

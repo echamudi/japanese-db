@@ -1,4 +1,4 @@
-## ⚠️ This project has been moved
+**⚠️ This project has been moved**
 
 `japanese-db-maker` has been renamed to `japanese-db`. Please use the latest version of `japanese-db` instead of `japanese-db-maker`.
 

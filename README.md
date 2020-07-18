@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/echamudi/japanese-toolkit/tree/master/packages/japanese-db">
-    <img src="https://raw.githubusercontent.com/echamudi/echamudi-docs/master/images/truck-git.svg">
+    <img src="https://raw.githubusercontent.com/echamudi/echamudi-docs/master/images/truck-git.svg" width="200" height="200">
   </a>
 </p>
 

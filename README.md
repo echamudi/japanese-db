@@ -2,9 +2,9 @@
 
 `japanese-db-maker` has been renamed to `japanese-db`. Please use the latest version of `japanese-db` instead of `japanese-db-maker`.
 
-GitHub URL : https://github.com/echamudi/japanese-db
+NPM URL : https://www.npmjs.com/package/japanese-db
 
-npm URL : https://www.npmjs.com/package/japanese-db
+GitHub URL : https://github.com/echamudi/japanese-toolkit/tree/master/packages/japanese-db
 
 -----
 

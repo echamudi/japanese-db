@@ -1,7 +1,7 @@
 **⚠️ This project has been moved**
 
 <p align="center">
-  <a href="https://github.com/echamudi/japanese-toolkit/tree/master/packages/japanese-db">
+  <a href="https://www.npmjs.com/package/japanese-db">
     <img src="https://raw.githubusercontent.com/echamudi/echamudi-docs/master/images/truck-git.svg" width="150" height="200">
   </a>
 </p>

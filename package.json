@@ -40,7 +40,7 @@
     "eslint": "^7.0.0",
     "eslint-config-airbnb-base": "^14.1.0",
     "eslint-plugin-import": "^2.20.2",
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "tslint": "^6.1.2",
     "typescript": "^3.9.2"
   }
